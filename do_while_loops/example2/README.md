@@ -5,6 +5,7 @@ gcc Example2.c -o Example2
 $./Example2
 
 enter a character
+
 f
 
 f
@@ -17,5 +18,5 @@ c
 
 c
 
-When the letter f is inserted the loop repeats itself and a user is requested to input another character and so on. a != 'c' will loop until a is equal to 'c'. when character is is inserted the loop stops and the program terminates.
+When the letter f is inserted the loop repeats itself and a user is requested to input another character and so on. a != 'c' will loop until a is equal to 'c'. when character 'c' is finally inserted the loop stops and the program terminates.
 
