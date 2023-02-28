@@ -1,4 +1,4 @@
-/*A program that displays characters A to G giving their numeric value*/
+/*A program that displays characters A to H giving their numeric value*/
 
 #include <stdio.h>
 

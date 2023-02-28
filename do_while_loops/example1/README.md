@@ -1,8 +1,9 @@
-vi Example1.c
-┌─[
-└──╼ $gcc Example1.c -o Example1
-┌─[
-└──╼ $./Example1
+When the program is compiled and run, it gives the following output
+
+$gcc Example1.c -o Example1
+
+$./Example1
+
 The character A contains numeric value of 65
 The character B contains numeric value of 66
 The character C contains numeric value of 67
