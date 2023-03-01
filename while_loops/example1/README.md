@@ -38,4 +38,4 @@ enter a number
 
 Hurry, You've Won
 
-With this second output, the first three numbers are wrong guesses but the fourth no is the write guesses, thus the program terminates by letting the user know that they have won the game.
+With this second output, the first three numbers are wrong guesses but the fourth no is the right secretno guess, thus the program terminates by letting the user know that they have won the game.
