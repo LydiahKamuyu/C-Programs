@@ -15,18 +15,21 @@ Enter year
 
 $./leapyear
 Enter year
+
 2013
 
 2013 is not a leap year
 
 $./leapyear
 Enter year
+
 2021
 
 2021 is not a leap year
 
 $./leapyear
 Enter year
+
 2060
 
 2060 is a leap year
