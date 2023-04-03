@@ -20,6 +20,8 @@ Print the output and exit.
 
 
 
+
+
 Output of the program is as follows
 
 $gcc Years_weeks_days.c -o Years_weeks_days
