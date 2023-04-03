@@ -17,6 +17,11 @@ Further divide the remainder by 7(no of days in a week) and obtain its remainder
 Store this in the variable days.
 
 Print the output and exit.
+
+
+
+Output of the program is as follows
+
 $gcc Years_weeks_days.c -o Years_weeks_days
 
 $./Years_weeks_days
