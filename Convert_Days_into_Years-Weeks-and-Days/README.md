@@ -22,12 +22,12 @@ Print the output and exit.
 
 
 
-Output of the program is as follows
+		Output of the program is as follows
 
-$gcc Years_weeks_days.c -o Years_weeks_days
+		$gcc Years_weeks_days.c -o Years_weeks_days
 
-$./Years_weeks_days
+		$./Years_weeks_days
 
-Enter the number of nodays: 4000
+		Enter the number of nodays: 4000
 
-4000days is equivalent to 10years 50weeks 0days 
+		4000days is equivalent to 10years 50weeks 0days 
